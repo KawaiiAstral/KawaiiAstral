@@ -22,7 +22,7 @@
 - **🛠️ Tools & Technologies**: [Git, vim, Unix, Linux (a bit)]
 
 ## 📫 Contact
-- **📧 Email**: [astralstell+github@gmai.cim]
+- **📧 Email**: [info@astraldao.shop]
 - **🐦 Twitter**: [[@astralstelldayo](https://x.com/AstralStelldayo)]
 - **🤖 Discord**: [[Discord Invite Link (Click to Join)](https://discord.gg/ZB3KpuwVxy)]
 
